@@ -1,0 +1,13 @@
+schedule = "simple"
+[[sensor]]
+	label = "Key A"
+	pin = 1
+[[sensor]]
+	label = "Key B"
+	pin = 2
+[[song]]
+	label = "Song A"
+	path = "/var/singsparrow-ii/song-a.wav"
+[[song]]
+	label = "Song B"
+	path = "/var/singsparrow-ii/song-b.wav"
